@@ -1,5 +1,14 @@
 ---
 title: Projects
-date: 2024-01-01
 type: landing
+sections:
+  - block: portfolio
+    content:
+      title: Projects
+      filters:
+        folders:
+          - project
+    design:
+      columns: 2
+      view: card
 ---

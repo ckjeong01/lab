@@ -1,5 +1,5 @@
 ---
-title: "프로젝트 이름"
+title: "“Andamu” critique and the First World vertigo of contemporary South Korean literature."
 date: 2024-01-01
 summary: "프로젝트 요약"
 tags: ["Deep Learning", "NLP"]

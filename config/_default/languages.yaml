@@ -24,13 +24,13 @@
 en:
   languageCode: en-us
   contentDir: content/en
-  title: "Korea Tricontinent Research Atelier"
+  title: "KTRA"
   params:
     description: "Comparative and postcolonial research group providing critical, interdisciplinary insights into contemporary social phenomena and subalternity."
 
 ko:
   languageCode: ko-kr
   contentDir: content/ko
-  title: "한국 삼대륙 연구 공방"
+  title: "한삼공방"
   params:
     description: "현대 사회 현상과 피억압성에 대한 비판적 통찰"

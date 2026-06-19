@@ -1,0 +1,41 @@
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+
+body {
+  font-family: 'Pretendard', sans-serif;
+}
+
+.img-hover-zoom {
+  height: auto !important;
+  max-height: none !important;
+  overflow: visible !important;
+}
+
+.img-hover-zoom img.article-banner {
+  object-fit: contain !important;
+  width: 100% !important;
+  height: auto !important;
+  max-height: 200px;
+}
+
+.hero-media {
+  padding: 2rem;
+  
+  img {
+    max-width: 80%;
+     min-width: 300px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 768px) {
+  .hero-media {
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    
+    img {
+      max-width: 70%;
+    }
+  }
+}
