@@ -43,7 +43,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest News
+      title: 새 소식
       subtitle:
       text:
       count: 5
@@ -98,7 +98,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="공방 사람들을 만나보세요. →" %}}
     design:
       columns: '1'
 ---
