@@ -8,4 +8,3 @@ image:
   focal_point: Smart
 ---
 
-Empathy and militancy in global social media rhetoric about the Gaza War.

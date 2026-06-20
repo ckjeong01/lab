@@ -1,11 +1,10 @@
 ---
 title: "Colonial origins of South Korean gender conflict."
 date: 2026-06-20
-summary: "프로젝트 요약"
-tags: ["Deep Learning", "NLP"]
+summary: 
+tags: ["Colonial origin", "South Korean gender conflict"]
 image:
   caption: ""
   focal_point: Smart
 ---
 
-프로젝트 본문 내용...
