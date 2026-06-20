@@ -47,3 +47,17 @@ body {
 .card-simple .article-metadata {
   display: none;
 }
+
+.under-construction {
+  background-color: #fff3cd;
+  border: 1px solid #ffc107;
+  padding: 1rem;
+  border-radius: 8px;
+  text-align: center;
+}
+
+body.dark .under-construction {
+  background-color: #7a6000;
+  border: 1px solid #ffc107;
+  color: #ffffff;
+}

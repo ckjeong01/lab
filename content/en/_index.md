@@ -9,7 +9,7 @@ sections:
     content:
       title:
       text: |
-        <div style="background-color:#fff3cd; border:1px solid #ffc107; padding:1rem; border-radius:8px; text-align:center;">
+        <div class="under-construction">
         🚧 <strong>This site is currently under construction.</strong> Please check back soon.
         </div>
     design:
