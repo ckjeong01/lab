@@ -5,16 +5,6 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title: |
-        Korea Tricontinent Research Atelier
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-         Comparative and postcolonial research group providing critical, interdisciplinary insights into contemporary social phenomena and subalternity.
-  
   - block: markdown
     content:
       title:
@@ -25,6 +15,16 @@ sections:
     design:
       columns: '1'
       
+  - block: hero
+    content:
+      title: |
+        Korea Tricontinent Research Atelier
+      image:
+        filename: welcome.jpg
+      text: |
+        <br>
+         Comparative and postcolonial research group providing critical, interdisciplinary insights into contemporary social phenomena and subalternity.
+  
   - block: markdown
     content:
       title: ''
