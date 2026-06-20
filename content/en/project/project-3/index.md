@@ -1,6 +1,6 @@
 ---
 title: "“Andamu” critique and the First World vertigo of contemporary South Korean literature."
-date: 2024-01-01
+date: 2026-06-20
 summary: "프로젝트 요약"
 tags: ["Deep Learning", "NLP"]
 image:
