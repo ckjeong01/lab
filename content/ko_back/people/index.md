@@ -7,19 +7,20 @@ type: landing
 sections:
   - block: people
     content:
-      title: 소개합니다.
+      title: Meet the Team
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-        - 책임자
-        - 연구원
-        - 대학원생
-        - 학부생
-        - 동문      
-      sort_by: Params.weight
+          - Principal Investigators
+          - Researchers
+          - Grad Students
+          - Administration
+          - Visitors
+          - Alumni
+      sort_by: Params.last_name
       sort_ascending: true
     design:
       show_interests: false
-      show_role: false
-      show_social: false
+      show_role: true
+      show_social: true
 ---

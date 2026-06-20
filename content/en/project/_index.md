@@ -11,4 +11,6 @@ sections:
     design:
       columns: 2
       view: card
+      sort_by: weight
+      sort_ascending: true
 ---

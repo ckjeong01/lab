@@ -1,5 +1,5 @@
 ---
-title: 출판물
+title: Publications
 
 # Listing view
 view: citation
