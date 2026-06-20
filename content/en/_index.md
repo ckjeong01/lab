@@ -17,6 +17,16 @@ sections:
   
   - block: markdown
     content:
+      title:
+      text: |
+        <div style="background-color:#fff3cd; border:1px solid #ffc107; padding:1rem; border-radius:8px; text-align:center;">
+        🚧 <strong>This site is currently under construction.</strong> Please check back soon.
+        </div>
+    design:
+      columns: '1'
+      
+  - block: markdown
+    content:
       title: ''
       subtitle: ''
       text: |
