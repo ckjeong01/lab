@@ -9,4 +9,3 @@ image:
 
 <!--more-->
 
-연구실(laboratory)? 공방(artelier)?

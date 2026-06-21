@@ -59,4 +59,4 @@ user_groups:
   - Researcher
 ---
 
-Seongyeong Joung is pursuing a double major in Korean Language & Literature and Sociology.
+Short bio (optional)

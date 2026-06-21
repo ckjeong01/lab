@@ -55,4 +55,4 @@ user_groups:
   - Researcher
 ---
 
-H Song is majoring in Sociology.
+Short bio (optional)

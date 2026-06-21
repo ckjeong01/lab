@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 정태의 박사
+title: 정태의
 
 # Full Name (for SEO)
 first_name: 정
