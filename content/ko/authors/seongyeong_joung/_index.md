@@ -31,7 +31,7 @@ interests:
   - 젠더사회학 (Sociology of gender)
   - 이주노동자 (Migrant labor)
   - 비판이론 (Critical Theory)
-  - 계통학 (Genealogy)
+  - 계보학 (Genealogy)
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
