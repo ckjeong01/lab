@@ -1,14 +1,14 @@
 ---
 # Display name
-title: 송혜인 
+title: Hyein Song 
 
 # Full name (for SEO)
-first_name: 송
-last_name: 혜인 
+first_name: Hyein
+last_name: Song 
 
 # Username (this should match the folder name)
 authors:
-  - 송혜인
+  - hyein_song
 
 weight: 2
 
@@ -16,30 +16,34 @@ weight: 2
 superuser: false
 
 # Role/position
-role: 연구원
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: 성균관대학교
-    url: 'https://www.skku.edu/'
+  - name: Sungkyunkwan University
+    url: 'https://www.skku.edu/eng/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-  - Interest
+  - Gender
+  - Inequality
+  - Critical Theory
+  - Imperialism
+  - Sociology of Social Conflict
   
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 
-  - icon: twitter
-    icon_pack: fab
-    link: 
+# social:
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 
+#   - icon: twitter
+#     icon_pack: fab
+#     link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -52,7 +56,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 연구원
+  - Researcher
 ---
 
-간단한 자기소개 (optional)

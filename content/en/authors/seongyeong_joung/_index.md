@@ -59,4 +59,4 @@ user_groups:
   - Researcher
 ---
 
-Short bio (optional)
+I am a researcher pursuing graduate studies in the Department of Sociology at Sungkyunkwan University. I approach my scholarship and research as if sending a message in a bottle. My academic hope is to contribute to a future society where everyone can live a life that is, at the very least, 'bearable.' 

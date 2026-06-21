@@ -5,15 +5,15 @@ date: 2026-06-20
 type: landing
 
 sections:
-  - block: markdown
-    content:
-      title:
-      text: |
-        <div class="under-construction">
-        🚧 <strong> 공사 중입니다.</strong> 조만간 다시 들러주세요.
-        </div>
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title:
+  #     text: |
+  #       <div class="under-construction">
+  #       🚧 <strong> 공사 중입니다.</strong> 조만간 다시 들러주세요.
+  #       </div>
+  #   design:
+  #     columns: '1'
       
   - block: hero
     content:

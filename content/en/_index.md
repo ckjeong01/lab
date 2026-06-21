@@ -5,15 +5,15 @@ date: 2026-06-20
 type: landing
 
 sections:
-  - block: markdown
-    content:
-      title:
-      text: |
-        <div class="under-construction">
-        🚧 <strong>This site is currently under construction.</strong> Please check back soon.
-        </div>
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title:
+  #     text: |
+  #       <div class="under-construction">
+  #       🚧 <strong>This site is currently under construction.</strong> Please check back soon.
+  #       </div>
+  #   design:
+  #     columns: '1'
       
   - block: hero
     content:
