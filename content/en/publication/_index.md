@@ -4,6 +4,17 @@ type: landing
 sections:
   - block: collection
     content:
+      title: Preprint
+      filters:
+        folders:
+          - publication
+        publication_type: article
+    design:
+      view: citation
+      columns: '1'
+
+  - block: collection
+    content:
       title: Journal Articles
       filters:
         folders:

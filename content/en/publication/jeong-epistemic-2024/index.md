@@ -27,7 +27,7 @@ publication_types:
 publication: '*Hypatia*'
 publication_short: ''
 
-doi: ''
+doi: 'https://doi.org/10.1017/hyp.2023.106'
 
 abstract: ''
 

@@ -4,6 +4,17 @@ type: landing
 sections:
   - block: collection
     content:
+      title: 프리프린트
+      filters:
+        folders:
+          - publication
+        publication_type: article
+    design:
+      view: citation
+      columns: '1'
+
+  - block: collection
+    content:
       title: 학술지 논문
       filters:
         folders:
