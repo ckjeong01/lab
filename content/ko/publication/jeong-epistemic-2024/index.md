@@ -24,7 +24,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Hypatia*'
+publication: '*Hypatia: A Journal of Feminist Philosophy*'
 publication_short: ''
 
 doi: ''
