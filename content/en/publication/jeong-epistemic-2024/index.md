@@ -73,4 +73,3 @@ links:
     https://www.cambridge.org/core/journals/hypatia/article/epistemic-diversity-and-epistemic-advantage-a-comparison-of-two-causal-theories-in-feminist-epistemology/CB6106C0F8A6D89C79E40290B7EC67EF
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

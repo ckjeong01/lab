@@ -84,4 +84,3 @@ links:
   url: https://journals.sagepub.com/doi/10.1177/00491241251314039
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
