@@ -37,8 +37,6 @@
     <span>{{ . }}</span>
     {{ end }}
   </div>
-  {{ else }}
-    {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
   {{ end }}
 
   {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
@@ -56,6 +54,10 @@
 
   <div class="section-subheading article-title mb-1 mt-3">
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+  </div>
+
+  <div class="card-date">
+    <span>{{ $item.Date.Format "Jan 2, 2006" }}</span>
   </div>
 
   {{ with $summary }}
