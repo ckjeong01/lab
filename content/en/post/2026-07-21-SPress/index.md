@@ -24,7 +24,7 @@ Professor Tay Jeong stated, "Since the outbreak of the Gaza war, long-standing t
 ![Chart comparing structural changes in regional pro-Palestine public opinion and total hashtag volume over time](chart.png)
 ▲ Structural Changes in Regional Pro-Palestine Public Opinion and Comparison of Total Hashtag Volume Over Time
 
-[Read the original article](https://www.spressnews.com/news/articleView.html?idxno=138490)
+[Read the original article](https://www.spressnews.com/news/articleView.html?idxno=138492)
 
 <!--more-->
       
