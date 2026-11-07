@@ -14,7 +14,7 @@ Families of Individuals with Neurodevelopmental Disabilities Research Lab
 
 Director: Professor Chung Eun Lee, Department of Child Psychology and Education
 
-#### Presentation by Professor Jeongeun Lee (FiND Lab)
+#### Presentation by Professor Chung Eun Lee (FiND Lab)
 Masking and camouflaging behaviors that autistic women use to hide their autistic traits or to meet social expectations, and the mental health difficulties they experience in the process
 
 #### Presentation by Professor Tay Jeong (Korea Tricontinent Research Atelier)
