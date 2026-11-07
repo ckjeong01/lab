@@ -1,5 +1,5 @@
 ---
-title: Joint Seminar with the FiND Lab
+title: Joint Seminar with FiND Lab
 date: 2026-10-29
 image:
   focal_point: 'top'
@@ -22,6 +22,6 @@ Explaining gender conflict among Koreaâ€™s younger generations (the so-called â€
 
 ![Joint Seminar with the FiND Lab](joint_meeting.png)
 
-[Related post from the Department of Child Psychology and Education about this event](https://skb.skku.edu/child/news.do?mode=view&articleNo=227957)
+[Read about this event on the Child Psychology and Education department website](https://skb.skku.edu/child/news.do?mode=view&articleNo=227957)
 
 <!--more-->
